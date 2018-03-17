@@ -1,0 +1,53 @@
+
+p{
+font-size:20px;
+}
+
+.juan {
+background-color:#B0002E;
+height:100px; 
+padding:30px;
+
+}
+
+.pedro {
+background-color:#0087C6;
+height:300px;
+padding:30px;
+
+}
+.mateo {
+background-image:url("assets/images/cuzco2.jpg");
+height:300px;
+padding:30px;
+background-repeat: no-repeat;
+background-size: 100%
+
+
+}
+.lucas {
+height:300px;
+padding-bottom:30px;
+
+}
+#fuente {
+	font-family: 'El Rio Lobo';
+	color:#FAAA00; 
+	font-size:30px;
+}
+
+#fuente2 {
+	font-family: 'El Rio Lobo';
+	font-size:50px;
+
+}
+
+#fuenteblanca {
+	color:#ffffff;
+}
+
+#fuentegrande {
+	font-family: 'El Rio Lobo';
+font-size:50px;
+
+}
